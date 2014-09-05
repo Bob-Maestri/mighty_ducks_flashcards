@@ -5,7 +5,7 @@
 
   # p  @card_hash
 
-class Model
+class Flashcard
   attr_reader :card_hash
 
   def initialize
@@ -21,14 +21,14 @@ class Model
 
 end
 
-class Controller
+class FlashcardController
 
- def
+  def
+  end
 
+  def show
 
- def show
-
- end
+  end
 end
 
 class View
