@@ -26,7 +26,7 @@ class FlashcardController
   def
   end
 
-  def show
+  def   show
 
   end
 end
